@@ -1,0 +1,15 @@
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\Aula1205.csproj.AssemblyReference.cache
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\Aula1205.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\Aula1205.AssemblyInfoInputs.cache
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\Aula1205.AssemblyInfo.cs
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\Aula1205.csproj.CoreCompileInputs.cache
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\bin\Debug\net6.0\Aula1205.exe
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\bin\Debug\net6.0\Aula1205.deps.json
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\bin\Debug\net6.0\Aula1205.runtimeconfig.json
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\bin\Debug\net6.0\Aula1205.dll
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\bin\Debug\net6.0\Aula1205.pdb
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\Aula1205.dll
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\refint\Aula1205.dll
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\Aula1205.pdb
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\Aula1205.genruntimeconfig.cache
+C:\Users\mhgir\source\repos\Aula1205\Aula1205\obj\Debug\net6.0\ref\Aula1205.dll
